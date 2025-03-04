@@ -7,7 +7,7 @@ const player = {
     y: 1,
     direction: 'down',
     posture: 'idle',
-    frame: 0
+    frame: 1
 };
 
 const tileset = new Image(); // Correction : "sileset" -> "tileset"

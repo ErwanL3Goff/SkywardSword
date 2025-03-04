@@ -1,0 +1,150 @@
+{
+    "tileWidth": 120,
+    "tileHeight": 130,
+    "sprites": [
+        {
+            "id": "idle_down_1",
+            "x": 0,
+            "y": 0,
+            "width": 120,
+            "height": 130,
+            "direction": "down",
+            "posture": "idle"
+        },
+        {
+            "id": "idle_left_1",
+            "x": 0,
+            "y": 130,
+            "width": 120,
+            "height": 130,
+            "direction": "left",
+            "posture": "idle"
+        },
+        {
+            "id": "idle_up",
+            "x": 0,
+            "y": 260,
+            "width": 120,
+            "height": 130,
+            "direction": "up",
+            "posture": "idle"
+        },
+        {
+            "id": "idle_right_1",
+            "x": 0,
+            "y": 390,
+            "width": 120,
+            "height": 130,
+            "direction": "right",
+            "posture": "idle"
+        },
+        {
+            "id": "walking_down_1",
+            "x": 0,
+            "y": 520,
+            "width": 120,
+            "height": 130,
+            "direction": "down",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_down_2",
+            "x": 120,
+            "y": 520,
+            "width": 120,
+            "height": 130,
+            "direction": "down",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_down_3",
+            "x": 240,
+            "y": 520,
+            "width": 120,
+            "height": 130,
+            "direction": "down",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_left_1",
+            "x": 0,
+            "y": 650,
+            "width": 120,
+            "height": 130,
+            "direction": "left",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_left_2",
+            "x": 120,
+            "y": 650,
+            "width": 120,
+            "height": 130,
+            "direction": "left",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_left_3",
+            "x": 240,
+            "y": 650,
+            "width": 120,
+            "height": 130,
+            "direction": "left",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_up_1",
+            "x": 0,
+            "y": 780,
+            "width": 120,
+            "height": 130,
+            "direction": "up",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_up_2",
+            "x": 120,
+            "y": 780,
+            "width": 120,
+            "height": 130,
+            "direction": "up",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_up_3",
+            "x": 240,
+            "y": 780,
+            "width": 120,
+            "height": 130,
+            "direction": "up",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_right_1",
+            "x": 0,
+            "y": 910,
+            "width": 120,
+            "height": 130,
+            "direction": "right",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_right_2",
+            "x": 120,
+            "y": 910,
+            "width": 120,
+            "height": 130,
+            "direction": "right",
+            "posture": "walking"
+        },
+        {
+            "id": "walking_right_3",
+            "x": 240,
+            "y": 910,
+            "width": 120,
+            "height": 130,
+            "direction": "right",
+            "posture": "walking"
+        }
+    ]
+}
